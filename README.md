@@ -1,0 +1,1 @@
+This code is the create a c function that will go from 0 to 2000 printing out all the perfect numbers. A perfect number is when all numbers it is divisible by add up to that number. For example 6 since 1+2+3=6
